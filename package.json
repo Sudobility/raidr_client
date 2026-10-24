@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/raidr_client",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "TypeScript client and TanStack Query hooks for the raidr API",
   "type": "module",
   "main": "dist/index.js",
@@ -36,30 +36,30 @@
   "author": "Sudobility Inc.",
   "license": "BUSL-1.1",
   "peerDependencies": {
-    "@sudobility/di": "^1.5.73",
-    "@sudobility/raidr_types": "^0.1.16",
-    "@sudobility/types": "^1.9.72",
+    "@sudobility/di": "^1.5.79",
+    "@sudobility/raidr_types": "^0.1.17",
+    "@sudobility/types": "^1.9.76",
     "@tanstack/react-query": ">=5.0.0",
     "react": ">=18.0.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.38.0",
-    "@sudobility/di": "^1.5.73",
-    "@sudobility/types": "^1.9.72",
-    "@tanstack/react-query": "^5.90.5",
-    "@testing-library/react": "^16.3.0",
-    "@types/node": "^24.9.1",
-    "@types/react": "^19.2.2",
-    "@typescript-eslint/eslint-plugin": "^8.46.2",
-    "@typescript-eslint/parser": "^8.46.2",
-    "@vitest/coverage-v8": "^4.1.11",
-    "eslint": "^9.38.0",
-    "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.4",
-    "happy-dom": "^20.0.8",
-    "prettier": "^3.6.2",
-    "typescript": "^5.9.3",
-    "vitest": "^4.1.11"
+    "@eslint/js": "~9.39.5",
+    "@sudobility/di": "^1.5.79",
+    "@sudobility/types": "^1.9.76",
+    "@tanstack/react-query": "~5.104.5",
+    "@testing-library/react": "~16.3.3",
+    "@types/node": "~24.19.2",
+    "@types/react": "~19.3.0",
+    "@typescript-eslint/eslint-plugin": "~8.72.0",
+    "@typescript-eslint/parser": "~8.72.0",
+    "@vitest/coverage-v8": "~4.1.12",
+    "eslint": "~9.39.5",
+    "eslint-config-prettier": "~10.1.8",
+    "eslint-plugin-prettier": "~5.5.7",
+    "happy-dom": "~20.14.6",
+    "prettier": "~3.9.10",
+    "typescript": "~5.9.3",
+    "vitest": "~4.1.12"
   },
   "publishConfig": {
     "access": "public"
@@ -69,7 +69,7 @@
     "url": "https://github.com/Sudobility/raidr_client.git"
   },
   "dependencies": {
-    "@sudobility/raidr_types": "^0.1.16"
+    "@sudobility/raidr_types": "^0.1.17"
   },
   "exports": {
     ".": {
