@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/raidr_client",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "TypeScript client and TanStack Query hooks for the raidr API",
   "type": "module",
   "main": "dist/index.js",
