@@ -5,7 +5,7 @@
     "": {
       "name": "@sudobility/raidr_client",
       "dependencies": {
-        "@sudobility/raidr_types": "^0.1.18",
+        "@sudobility/raidr_types": "^0.1.19",
       },
       "devDependencies": {
         "@eslint/js": "~10.0.1",
@@ -28,7 +28,7 @@
       },
       "peerDependencies": {
         "@sudobility/di": "^1.5.85",
-        "@sudobility/raidr_types": "^0.1.18",
+        "@sudobility/raidr_types": "^0.1.19",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
@@ -308,7 +308,7 @@
 
     "@sudobility/di": ["@sudobility/di@1.5.85", "https://npm.pkg.github.com/download/@sudobility/di/1.5.85/5914303c5376ee0a158b08bdff2955fe3392b4c0", { "peerDependencies": { "@notifee/react-native": ">=7.0.0", "@react-native-async-storage/async-storage": ">=1.19.0", "@react-native-community/netinfo": ">=9.0.0", "@react-native-firebase/analytics": ">=18.0.0", "@react-native-firebase/app": ">=18.0.0", "@react-native-firebase/messaging": ">=18.0.0", "@sudobility/types": "^1.9.78", "firebase": ">=11.0.0", "react": ">=18.0.0", "react-native": ">=0.70.0" } }, "sha512-SsRL5t8G2/Kck8bnZUz1H1XIKFDBeM3dK1w0UoaBZqHnxTHrSbVectxQYgF6zskzlPeA6GlKHYd8tB7YB0MFxA=="],
 
-    "@sudobility/raidr_types": ["@sudobility/raidr_types@0.1.18", "https://npm.pkg.github.com/download/@sudobility/raidr_types/0.1.18/a914eb311d9b82f438357d4d68f15d34f609b904", { "peerDependencies": { "@sudobility/types": "^1.9.78", "zod": "^4.0.0" } }, "sha512-o66R+yX8nxZ/pZKEhJz0ge2GhCnDyYfIDUMeYa39LmM+9isZb/t/lXYYuFSLDbqJzS6PTirO9AVKJvK9LrHZDA=="],
+    "@sudobility/raidr_types": ["@sudobility/raidr_types@0.1.19", "https://npm.pkg.github.com/download/@sudobility/raidr_types/0.1.19/f1d8b81affd70b015699f7c6ae9f737e5b0ceb72", { "peerDependencies": { "@sudobility/types": "^1.9.78", "zod": "^4.0.0" } }, "sha512-I31kQh0V76yiBzjVK12DNwG4+wyq+QDx7N2BDAXlRHZsGZmXDWBBmtOr6CeYgXawLeRUv5kpg0s/D1o+XleyHQ=="],
 
     "@sudobility/types": ["@sudobility/types@1.9.78", "https://npm.pkg.github.com/download/@sudobility/types/1.9.78/19ca0df5ad7d490bafc1b84384a8002f5dbc29ea", {}, "sha512-W6DYMUf7D0cVVUHDv5T8YZ339Wyay6xPx0CsdfNVgHDsm1ISDLhwacUwlM9xnvwXHGuAhP77wRVVo3uKGZe46Q=="],
 
