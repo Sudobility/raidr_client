@@ -10,15 +10,17 @@ import {
   type UseQueryOptions,
   type UseQueryResult,
 } from "@tanstack/react-query";
-import type { NetworkClient } from "@sudobility/types";
 import type {
   BaseResponse,
+  NetworkClient,
+  PaginatedResponse,
+} from "@sudobility/types";
+import type {
   CrawlJob,
   CrawlJobEnqueueRequest,
   CrawlJobEnqueueResult,
   CrawlJobListQueryParams,
   McpSummary,
-  PaginatedResponse,
   SkillSummary,
 } from "@sudobility/raidr_types";
 import { queryKeys } from "./query-keys";

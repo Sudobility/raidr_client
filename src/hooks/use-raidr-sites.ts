@@ -10,10 +10,12 @@ import {
   type UseQueryOptions,
   type UseQueryResult,
 } from "@tanstack/react-query";
-import type { NetworkClient } from "@sudobility/types";
 import type {
   BaseResponse,
+  NetworkClient,
   PaginatedResponse,
+} from "@sudobility/types";
+import type {
   Site,
   SiteListQueryParams,
   SiteUpsertRequest,

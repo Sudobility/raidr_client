@@ -5,12 +5,12 @@
     "": {
       "name": "@sudobility/raidr_client",
       "dependencies": {
-        "@sudobility/raidr_types": "^0.1.22",
+        "@sudobility/raidr_types": "^0.1.23",
       },
       "devDependencies": {
         "@eslint/js": "~10.0.1",
-        "@sudobility/di": "^1.5.88",
-        "@sudobility/types": "^1.10.2",
+        "@sudobility/di": "^1.5.89",
+        "@sudobility/types": "^1.11.1",
         "@tanstack/react-query": "~5.104.5",
         "@testing-library/react": "~16.3.3",
         "@types/node": "~26.6.5",
@@ -27,9 +27,9 @@
         "vitest": "~4.1.12",
       },
       "peerDependencies": {
-        "@sudobility/di": "^1.5.88",
-        "@sudobility/raidr_types": "^0.1.22",
-        "@sudobility/types": "^1.10.2",
+        "@sudobility/di": "^1.5.89",
+        "@sudobility/raidr_types": "^0.1.23",
+        "@sudobility/types": "^1.11.1",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
       },
@@ -306,11 +306,11 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/di": ["@sudobility/di@1.5.88", "https://npm.pkg.github.com/download/@sudobility/di/1.5.88/d903514b6fccce296a8cacf3792d924b3d592885", { "peerDependencies": { "@notifee/react-native": ">=7.0.0", "@react-native-async-storage/async-storage": ">=1.19.0", "@react-native-community/netinfo": ">=9.0.0", "@react-native-firebase/analytics": ">=18.0.0", "@react-native-firebase/app": ">=18.0.0", "@react-native-firebase/messaging": ">=18.0.0", "@sudobility/types": "^1.10.2", "firebase": ">=11.0.0", "react": ">=18.0.0", "react-native": ">=0.70.0" } }, "sha512-CEU634mOEjSS0/DXsd6pAt8llZPBvIv1IYsa1OeOUjtGIK9jTYUIXVU2omfWUx1PjZX9PzmIUtkm/eIkKeVO+A=="],
+    "@sudobility/di": ["@sudobility/di@1.5.89", "https://npm.pkg.github.com/download/@sudobility/di/1.5.89/d60dddcddab671f919b602a27885ab7d6f9c23da", { "peerDependencies": { "@notifee/react-native": ">=7.0.0", "@react-native-async-storage/async-storage": ">=1.19.0", "@react-native-community/netinfo": ">=9.0.0", "@react-native-firebase/analytics": ">=18.0.0", "@react-native-firebase/app": ">=18.0.0", "@react-native-firebase/messaging": ">=18.0.0", "@sudobility/types": "^1.11.1", "firebase": ">=11.0.0", "react": ">=18.0.0", "react-native": ">=0.70.0" } }, "sha512-wppiHLJNJXl8SRdKy5D27RA7EqF3ZB15GviC+MDJFTnSHgVace/TNWx78JaGumznQY7bQtLxpdsqNC2BkzZUBw=="],
 
-    "@sudobility/raidr_types": ["@sudobility/raidr_types@0.1.22", "https://npm.pkg.github.com/download/@sudobility/raidr_types/0.1.22/0640dc0130d5eef62654ab716fee1cf3042e445b", { "peerDependencies": { "@sudobility/types": "^1.10.2", "zod": "^4.0.0" } }, "sha512-YVzaE0VzXhv6OyIWUt+vnN8cZZq8CVD4FkBWKyTd/jzyVDqJFv0W6Vc/NjHu23pyftV0MvpGK3QygO9sBQ5ioA=="],
+    "@sudobility/raidr_types": ["@sudobility/raidr_types@0.1.23", "https://npm.pkg.github.com/download/@sudobility/raidr_types/0.1.23/cfbf68028b92add3c780ab3963ae0fdc7bacbbbc", { "peerDependencies": { "@sudobility/types": "^1.11.1", "zod": "^4.0.0" } }, "sha512-rGiX0+pr5nVVSsyhvEySQLvcZG+toRxoPqJU3tfR9wQoLvRIFumyZU1m2soiXezPWOylbmWlPXE/d/XQJHSm8A=="],
 
-    "@sudobility/types": ["@sudobility/types@1.10.2", "https://npm.pkg.github.com/download/@sudobility/types/1.10.2/c25e0a0122786dbd23651b15aab022c02c3a5a5e", {}, "sha512-CjMjxeoWE+WMt7HWPWFwcjmjXEbwS9ZPnoa6tN8dBzQSWCaCTZBIfjDDk7xwi+9/2OOxVaorDEHNOZTqSdUxvA=="],
+    "@sudobility/types": ["@sudobility/types@1.11.1", "https://npm.pkg.github.com/download/@sudobility/types/1.11.1/dc6bf578b6f618fab74a7a60ed064d80b18782c2", {}, "sha512-NPECPlRPj1IavT7pu3KtIFB6rDfs30AgD89pw/qrNe1+Tm0FFLkIfqxE/y8+uajm85um+FcoYHn/hY70Px9uow=="],
 
     "@tanstack/query-core": ["@tanstack/query-core@5.104.5", "", {}, "sha512-Q94gI8Opd+CbdVNOdj8ZCyV8WqLYitrDq1t96Xc8WZT6lY0r5iRnJLXYDxMex7EEf2v+mXvn4FcjaBKSxXZQ9A=="],
 
