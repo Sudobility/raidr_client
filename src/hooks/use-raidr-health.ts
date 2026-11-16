@@ -3,8 +3,11 @@ import {
   type UseQueryOptions,
   type UseQueryResult,
 } from "@tanstack/react-query";
-import type { BaseResponse, NetworkClient } from "@sudobility/types";
-import type { HealthCheckData } from "@sudobility/raidr_types";
+import type {
+  BaseResponse,
+  HealthCheckData,
+  NetworkClient,
+} from "@sudobility/types";
 import { queryKeys } from "./query-keys";
 import { STALE_TIMES } from "./query-config";
 import { useRaidrClient } from "./use-raidr-client";

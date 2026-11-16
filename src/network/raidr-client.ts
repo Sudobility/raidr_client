@@ -10,6 +10,7 @@
  */
 import type {
   BaseResponse,
+  HealthCheckData,
   NetworkClient,
   PaginatedResponse,
 } from "@sudobility/types";
@@ -23,7 +24,6 @@ import {
   type CrawlJobEnqueueRequest,
   type CrawlJobEnqueueResult,
   type CrawlJobListQueryParams,
-  type HealthCheckData,
   type ListQueryParams,
   type Mcp,
   MCP_PROXY_PATH,
